@@ -1,0 +1,1 @@
+An interactive tool built with Python and PyPortfolioOpt designed to optimize an investment portfolio using the Black-Litterman model. In the future, this project will provide an intuitive interface to select assets, define market views and obtain an optimal allocation (to be continued).
